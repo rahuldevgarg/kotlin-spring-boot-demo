@@ -1,7 +1,3 @@
-Sure, here's a basic README for your Spring Boot project demo with Kotlin:
-
----
-
 # Spring Boot Kotlin Demo Project
 
 This is a demonstration project showcasing the usage of Spring Boot with Kotlin. It includes basic configurations for building a reactive web application.
